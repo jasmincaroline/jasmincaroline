@@ -14,6 +14,7 @@ My journey can be summarized in a small change of variables and comments, but wi
 // Now: Why is this button 2 pixels to the right?
 
 let career = 'Linguist';
+
 career = "Frontend Developer";
 
 ## 📬 Connect With Me
