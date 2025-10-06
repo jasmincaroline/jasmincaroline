@@ -10,6 +10,7 @@ I'm an aspiring **Frontend Developer**, bringing the passion and analytical prec
 My journey can be summarized in a small change of variables and comments, but with a significant shift in perspective:
 
 // Before: Where is the subject of the sentence?
+
 // Now: Why is this button 2 pixels to the right?
 
 let career = 'Linguist';
