@@ -1,11 +1,11 @@
-# Hi! I'm Jasmin! 👋
+# Hi! I'm Jasmin! 
 
 
 I'm an aspiring **Frontend Developer**, bringing the passion and analytical precision from my background in Letters and Linguistics into the world of software development. 
 
 ---
 
-## 💡 My Career Evolution in Code
+##  My Career Evolution in Code
 
 My journey can be summarized in a small change of variables and comments, but with a significant shift in perspective:
 
